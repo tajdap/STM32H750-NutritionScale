@@ -53,7 +53,7 @@ NEXT → GPIO 23
 MULTI → GPIO 5
 Vse komponente so povezane na skupno ozemljitev in napajalno linijo.
 
-![Diagram povezav na plošči](images/2_diagram)
+![Diagram povezav na plošči](images/2_diagram.png)
 
 
 ### Pisanje kode
@@ -124,5 +124,5 @@ izvedbo, kjer je bilo potrebno veliko poskusov spajkanja ter načrtovanje ogrodj
 Naprava nam omogoča enostavno sestavljanje obrokov v realnem času, kar nam pokaže
 uporabno vrednost tovrstnih vgrajenih sistemov v vsakdanjem življenju.
 
-![Povezave na plošči](images/3_board)
-![Prikaz na ekranu](images/3_tehtnica)
+![Povezave na plošči](images/3_board.jpg)
+![Prikaz na ekranu](images/3_tehtnica.png)
