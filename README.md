@@ -26,6 +26,8 @@ lahko prosto upogne, kar omogoča natančne meritve.
 Kasneje sem sicer ugotovila da sem ploščo obrnila narobe. Težavo sem rešila tako, da sem
 kot faktor vnesla negativno število.
 
+![Skica ogrodja](images/1_nacrt.png)
+
 ### Spajkanje
 Žičke, ki vodijo iz tehtalne celice je bilo potrebno prispajkati na HX711, in sicer sledeče
 (Wheatstonov mostiček):
@@ -50,6 +52,8 @@ SCK → GPIO 4
 NEXT → GPIO 23
 MULTI → GPIO 5
 Vse komponente so povezane na skupno ozemljitev in napajalno linijo.
+
+![Diagram povezav na plošči](images/2_diagram)
 
 
 ### Pisanje kode
@@ -119,3 +123,6 @@ Ključni izziv pri projektu mi je predstavljal prehod iz teoretičnega načrtova
 izvedbo, kjer je bilo potrebno veliko poskusov spajkanja ter načrtovanje ogrodja tehtnice.
 Naprava nam omogoča enostavno sestavljanje obrokov v realnem času, kar nam pokaže
 uporabno vrednost tovrstnih vgrajenih sistemov v vsakdanjem življenju.
+
+![Povezave na plošči](images/3_board)
+![Prikaz na ekranu](images/3_tehtnica)
